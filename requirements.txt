@@ -1,2 +1,4 @@
-nose
-sphinx
+matplotlib
+numpy
+pandas
+flask

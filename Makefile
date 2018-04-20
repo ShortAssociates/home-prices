@@ -1,5 +1,8 @@
-init:
+install:
 	pip install -r requirements.txt
 
-test:
-	nosetests tests
+reload:
+	rm data/inventory.p
+	rm data/prices.p
+
+
