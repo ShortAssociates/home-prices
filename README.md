@@ -1,4 +1,4 @@
-# MIO Development Exercise:  Executive Summary
+# Development Exercise:  Executive Summary
 
 ### The program
 
@@ -27,8 +27,6 @@ Using numpy, I calculated a correlation coefficient for each graph.  In addition
 The New York market showed the greatest correlation between price and inventory.  However, as you viewed the other charts and pick out the lowest correlation in Vermont, the correlation is not as tight as it is in New York.  I didn’t calculate any additional states, but it would be very interesting to see if Vermont was an outlier or more common when all 50 states and DC are calculated. 
 
 My conclusion from the data, is the correlation between housing prices and inventory is strong but must feed off factors that are not necessarily included in this analysis.  New York, with the nations largest market is highly correlated, yet that may be factors not as common in other markets.  A sample of 5 states is insufficient to adjust for random chance.
-
-Load MIOExerciseResult.png to view my results (on both OS X and Linux Mint)
 
 # Home Prices
 
